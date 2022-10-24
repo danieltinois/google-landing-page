@@ -1,0 +1,42 @@
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 1% 1%;
+  font-size: 14px;
+}
+
+.Gmail:hover {
+  text-decoration: underline;
+}
+
+.Gmail a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.Img {
+  padding: 0 1%;
+}
+
+.Img:hover {
+  text-decoration: underline;
+}
+
+.Img a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.apps {
+  padding: 0 10px;
+}
+
+.profile {
+  padding: 0 10px;
+}
+
+.profile_2 {
+  border-radius: 20px;
+}
